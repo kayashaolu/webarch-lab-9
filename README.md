@@ -2,7 +2,7 @@
 Create your own API
 
 ## In this lab you will accomplish the following
- - Create an API using NodeJS and Express
+ - Create an API using Python and Flask
  - Create a GET and a POST endpoint
  - Use curl to interact with your API
  
